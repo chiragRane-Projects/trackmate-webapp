@@ -1,7 +1,3 @@
-
-### 2️⃣ Web App – `trackmate-web`
-
-```md
 # 🌐 TrackMate – Web Dashboard
 
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
@@ -11,16 +7,21 @@
 ![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-🎩-111827)
 ![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?logo=vercel)
 
+Modern dashboard for fleet managers to track vehicle movement, driver schedules, and more — **in real-time**.
 
-Modern dashboard for fleet managers to track vehicle movement, driver schedules, and more in real-time.
+---
 
 ## 🎯 Features
-- Live map updates (WebSocket)
-- Driver & vehicle views
-- Predictive maintenance dashboard
-- Stunning UI with Shadcn + Framer Motion
+
+- 📡 Live map updates via WebSocket  
+- 🚛 Driver & vehicle tracking views  
+- 🛠️ Predictive maintenance dashboard  
+- 💅 Clean, animated UI with Shadcn + Framer Motion
+
+---
 
 ## 🚀 Run Locally
+
 ```bash
 git clone https://github.com/yourname/trackmate-web
 cd trackmate-web
