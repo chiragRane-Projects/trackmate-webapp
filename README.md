@@ -4,12 +4,13 @@
 ```md
 # 🌐 TrackMate – Web Dashboard
 
-![React](https://img.shields.io/badge/React-18-blue)
-![Vite](https://img.shields.io/badge/Vite⚡️-UltraFast-purple)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-✂️-blue)
-![Framer Motion](https://img.shields.io/badge/FramerMotion-🌀-pink)
-![Shadcn UI](https://img.shields.io/badge/ShadcnUI-🎩-zinc)
-![Vercel](https://img.shields.io/badge/Deployed-Vercel-black)
+![React](https://img.shields.io/badge/React-18-blue?logo=react)
+![Vite](https://img.shields.io/badge/Vite-⚡️UltraFast-purple?logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-✂️-06B6D4?logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-🌀-black)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-🎩-111827)
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-black?logo=vercel)
+
 
 Modern dashboard for fleet managers to track vehicle movement, driver schedules, and more in real-time.
 
