@@ -23,7 +23,7 @@ Modern dashboard for fleet managers to track vehicle movement, driver schedules,
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/yourname/trackmate-web
-cd trackmate-web
+git clone https://github.com/yourname/trackmate-webapp
+cd trackmate-webapp
 npm install
 npm run dev
